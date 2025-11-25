@@ -1,6 +1,0 @@
-git init
-git add .
-git commit -m "Initial commit"
-# 将下面的 URL 替换为您的 GitHub 仓库地址
-git remote add origin https://github.com/5574763/ghcs.git
-git push -u origin main
